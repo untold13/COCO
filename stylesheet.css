@@ -108,3 +108,17 @@ button{
     margin-top: 30px;
     border-color: #3D8168;
 }
+#add{
+    margin-left: 11px;
+color: var(--Pure-White, #FFF);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+button img{
+    width: 14.385px;
+    height: 16px;
+}
